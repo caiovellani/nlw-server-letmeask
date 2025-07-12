@@ -15,6 +15,13 @@
       "when": 1752087801982,
       "tag": "0001_aspiring_queen_noir",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752362560868,
+      "tag": "0002_mean_sister_grimm",
+      "breakpoints": true
     }
   ]
 }
